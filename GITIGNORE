@@ -1,0 +1,38 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+env.bak/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+Enunciado
+Projeto: Cálculo de Idade Futura
+
+Desenvolva um script em Python que receba a idade atual de uma pessoa e calcule qual será a sua idade após 5 anos.
+
+Requisitos:
+
+O script deve solicitar ao usuário a sua idade atual.
+O script deve calcular a idade futura somando 5 anos à idade atual.
+O valor da idade futura deve ser exibido ao usuário.
+Critérios de Avaliação:
+
+Correção no cálculo da idade futura.
+Exibição adequada do resultado.
+Estrutura e clareza do código.
